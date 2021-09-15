@@ -1,5 +1,6 @@
 # url-shortner
-Shortens a given URL
+Shortens a given URL and stores it in sqlite db. Also caches the url in cache.py
+Made using Falcon framework 
 
 Run the below command to start the docker container
 <br />```bash start-docker.sh```
